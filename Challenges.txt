@@ -20,3 +20,6 @@ Jump from the plane as soon as possible
 After you get a kill, drop the weapon you got the kill with
 No loot bins
 You have to hard push anyone you see
+Can't slide.
+Can only walk forwards or backwards (no a or d)
+No shield healing, have to shield swap
