@@ -12,7 +12,7 @@ Sweat mode: wingmans and r99 only
 Only Pistols
 You can only loot from one house
 1 person snipers 1 person grenades 1 person shotguns
-Only 2x scopes or over
+Only 2x scopes or over (no 1-2x)
 Land in Estates/Fragment/Cage
 Only loot from death boxes
 Can't crouch
