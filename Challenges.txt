@@ -1,5 +1,5 @@
 200% rhythm bot
-Ninja (no speak)
+Ninja (no speak until you get a kill)
 No pings
 No aiming down sights
 First 5 guns you find only
@@ -13,3 +13,10 @@ Only Pistols
 You can only loot from one house
 1 person snipers 1 person grenades 1 person shotguns
 Only 2x scopes or over
+Land in Estates/Fragment/Cage
+Only loot from death boxes
+Can't crouch
+Jump from the plane as soon as possible
+After you get a kill, drop the weapon you got the kill with
+No loot bins
+You have to hard push anyone you see
