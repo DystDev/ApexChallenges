@@ -23,3 +23,7 @@ You have to hard push anyone you see
 Can't slide.
 Can only walk forwards or backwards (no a or d)
 No shield healing, have to shield swap
+You only get 1 life - you cant get revived or respawned
+Every time you get a kill, swap loadouts
+Turn all computer sounds off until you get a kill
+Chant Om Mani Pandme Hum the whole game
