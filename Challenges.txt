@@ -26,4 +26,7 @@ No shield healing, have to shield swap
 You only get 1 life - you cant get revived or respawned
 Every time you get a kill, swap loadouts
 Turn all computer sounds off until you get a kill
-Chant Om Mani Pandme Hum the whole game
+No Med Kits/Shield Batteries
+No Extended Mags
+You must to punch an enemy once before you can shoot them
+Drop your Evo Shield whilst gliding
