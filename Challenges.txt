@@ -1,4 +1,3 @@
-200% rhythm bot
 Ninja (no speak until you get a kill)
 No pings
 No aiming down sights
@@ -15,7 +14,7 @@ You can only loot from one house
 Only 2x scopes or over (no 1-2x)
 Land in Estates/Fragment/Cage
 Only loot from death boxes
-Can't crouch
+You can't crouch
 Jump from the plane as soon as possible
 After you get a kill, drop the weapon you got the kill with
 No loot bins
@@ -30,3 +29,4 @@ No Med Kits/Shield Batteries
 No Extended Mags
 You must to punch an enemy once before you can shoot them
 Drop your Evo Shield whilst gliding
+Enemies must shoot at you before you can shoot at them
