@@ -1,15 +1,21 @@
-Crash Site
-Artillery
-Containment
 Spotted Lake
 The Pit
+Bunker
 Runoff
 Airbase
 Gauntlet
 Salvage
-Bunker
 Market
 Caustic Treatment
-Cage
+Map Room
+Repulsor
+Hydro Dam
+The Cage
 Labs
 Swamps
+Capacitor
+The Rig
+Broken Relay
+Artillery
+Containment
+Crash Site
